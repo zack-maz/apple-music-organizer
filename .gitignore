@@ -1,0 +1,9 @@
+# Personal listening data — playlist contents exported from the music library.
+# Never commit: titles, artists, albums and persistent IDs of everything owned.
+backups/
+
+# macOS
+.DS_Store
+
+# Compiled AppleScript
+*.scpt
